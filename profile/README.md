@@ -16,4 +16,8 @@ We are planning to develop a wonderful community that we can talk about frontend
 
 ## community
 
-loading...
+### Trust Level
+
+In the BeingThink community, we use **Trust Level** to welcome people to join us, this concept comes from Discourse, you can read original [blog](https://blog.discourse.org/2018/06/understanding-discourse-trust-levels/) posted by Discourse.
+
+Now, you can read Trust Level RULES executed in this community from [here](../docs/tl-rules.md).
