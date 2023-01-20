@@ -1,6 +1,6 @@
 # BeingThink
 
-> We are going to think what others have thought or not thought!
+> Help more people especially colleage student to learn current techs easily!
 
 ## discussion
 
