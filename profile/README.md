@@ -1,6 +1,6 @@
 # BeingThink
 
-[中文](./README.zh-CN.md)
+[中文文档可以看这儿](/profile/README.zh-CN.md)
 
 > To make easy-to-use and funny tools.
 
