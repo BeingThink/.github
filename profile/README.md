@@ -14,4 +14,4 @@ If you very like something such as javascript, vue.js, node.js, or cloud-native,
 
 ## group
 
-<img width="200" src="./bter.png" />
+<img width="200" src="/profile/bter.png" />
