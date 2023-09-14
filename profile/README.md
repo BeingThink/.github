@@ -14,10 +14,6 @@ If you very like something such as javascript, vue.js, node.js, or cloud-native,
 
 We are planning to develop a wonderful community in which we can talk about front-end or any other technology stacks which are popular recently.
 
-## community
+## group
 
-### Trust Level
-
-In the BeingThink community, we use **Trust Level** to welcome people to join us, this concept comes from Discourse, you can read the original [blog](https://blog.discourse.org/2018/06/understanding-discourse-trust-levels/) posted by Discourse.
-
-Now, you can read Trust Level RULES executed in this community from [here](https://github.com/BeingThink/.github/blob/main/docs/tl-rules.md).
+<img width="200" src="./bter.png" />
